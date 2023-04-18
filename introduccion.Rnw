@@ -1,0 +1,9 @@
+\documentclass{article}
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+El presente informe trata sobre el circuito RC
+
+
+\end{document}
