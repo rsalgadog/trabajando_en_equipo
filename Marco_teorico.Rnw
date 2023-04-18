@@ -1,0 +1,9 @@
+\documentclass{article}
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+Este es el marco teorico XD
+
+
+\end{document}
